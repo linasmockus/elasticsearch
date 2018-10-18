@@ -19,7 +19,7 @@ contain duplicate keys. For example:
 node:
   name: my-node
 
-node
+node:
   attr:
     rack: my-rack
 --------------------------------------------------
